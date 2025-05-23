@@ -331,7 +331,7 @@ compute_type = "int8"
 fontsize = 100
 fade_in = 0.05
 fade_out = 0.05
-text_y_position_ratio = 0.85  # <=== Adjustable vertical position of subtitles (0.5 = center, 0.85 = near bottom)
+text_y_position_ratio = 0.60  # <=== Adjustable vertical position of subtitles (0.5 = center, 0.85 = near bottom)
 
 # === Helper: get duration using ffprobe ===
 def get_duration(file_path):
